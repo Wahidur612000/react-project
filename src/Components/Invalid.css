@@ -1,0 +1,21 @@
+.InvalidInputPage {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .InvalidInputPage p {
+    margin-bottom: 20px;
+  }
+  
+  .InvalidInputPage button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .InvalidInputPage button:hover {
+    background-color: #45a049;
+  }
+  
